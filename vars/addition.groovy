@@ -1,3 +1,4 @@
-def call(int a, int b) {
-    echo $(a+b)
+def call(int a,int b){
+    return a+b
+
 }
